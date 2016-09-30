@@ -1,0 +1,81 @@
+<resources>
+
+    <!--Login layout Strings-->
+    <string name="app_name">Collection</string>
+    <string name="Cable_Tv_Crm">CABLE TV CRM</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="name">Name</string>
+    <string name="password">•••••••</string>
+    <string name="sign_button">SIGN IN</string>
+    <string name="Remember_Me">Remember Me</string>
+    <string name="Forgot_Password">Forgot Password? Click Here</string>
+
+    <!--Menu Strings-->
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <!--collection history strings-->
+    <!--Heading-->
+    <string name="amountdetails">Amount Details</string>
+    <!--Table-->
+    <string name="colon">:</string>
+    <string name="targettxt">Target Amount</string>
+    <string name="target">1000</string>
+    <string name="paymenrcvttxt">Payment Received</string>
+    <string name="paymentrcv">1000</string>
+    <string name="paidsbtxt">Paid Subscribers</string>
+    <string name="paidsb">1000</string>
+    <string name="unpaidsbtxt">Unpaid Subscribers</string>
+    <string name="unpaidsb">1000</string>
+    <string name="pendingamount">100000</string>
+    <!--Heading-->
+    <string name="pendingamounttxt">Pending Amount</string>
+    <!--Button-->
+    <string name="next">Next</string>
+
+
+    <!--Payment Strings-->
+    <string name="serchby">Serach By</string>
+
+
+
+    <!--Spinner-->
+    <string name="spinner_title">Search Type</string>
+    <!--Edit Text Hint-->
+    <string name="txt_search">Search</string>
+    <!--Spinner elements-->
+    <string-array name="spinnerItems">
+        <item>Name</item>
+        <item>Mobile</item>
+        <item>STB NO</item>
+        <item>OTHER</item>
+    </string-array>
+    <!--Button text-->
+    <string name="btn_go">GO</string>
+    <string name="pname">Name</string>
+    <string name="cname">-</string>
+    <string name="address">Address</string>
+    <string name="caddress">-</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="cmobile">-</string>
+
+
+<!--
+
+    <string name="s_row1_1">Name</string>
+    <string name="s_row1_2">Steven</string>
+    <string name="s_row2_1">Address</string>
+    <string name="s_row2_2">Adc</string>
+    <string name="s_row3_1">Mobile No.</string>
+    <string name="s_row3_2">93255122131</string>
+
+    <string name="s1_row1">STB No. Svc Provider</string>
+    <string name="s1_row2">Package</string>
+    <string name="s1_row3">Amount</string>
+
+    <string name="bill_details">Bill Details</string>
+    <string name="pay">Pay</string>
+-->
+
+</resources>
